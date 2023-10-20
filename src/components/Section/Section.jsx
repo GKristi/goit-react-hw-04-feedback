@@ -12,3 +12,4 @@ const Section = ({ title, children }) => {
 }
 
 export default Section;
+
